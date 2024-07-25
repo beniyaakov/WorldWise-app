@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "af90",
+      "cityName": "Netanya",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2024-07-25T23:30:41.445Z",
+      "notes": "",
+      "position": {
+        "lat": "32.31397574791842",
+        "lng": "34.86322402954102"
+      }
+    },
+    {
+      "id": "b9e9",
+      "cityName": "Netanya",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2024-07-25T23:31:15.927Z",
+      "notes": "",
+      "position": {
+        "lat": "32.29886551347016",
+        "lng": "34.87104036804198"
+      }
+    },
+    {
+      "id": "c390",
+      "cityName": "Netanya",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2024-07-25T23:31:48.110Z",
+      "notes": "",
+      "position": {
+        "lat": "32.33849034630531",
+        "lng": "34.87524032592774"
+      }
+    },
+    {
+      "id": "10f7",
+      "cityName": "Netanya",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2024-07-25T23:34:40.733Z",
+      "notes": "",
+      "position": {
+        "lat": "32.35371796626593",
+        "lng": "34.86700057983399"
+      }
+    },
+    {
+      "id": "28e5",
+      "cityName": "Mishmeret",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2024-07-25T23:34:52.298Z",
+      "notes": "",
+      "position": {
+        "lat": "32.23357554831808",
+        "lng": "34.92107165832488"
+      }
+    }
+  ]
+}
