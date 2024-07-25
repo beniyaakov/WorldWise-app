@@ -1,4 +1,5 @@
-import { ApiType } from "../../App";
+
+import { ApiType } from "../../contexts/CitiesContexts";
 import styles from "./CountryItem.module.css";
 
 type CountryItemProps = {
