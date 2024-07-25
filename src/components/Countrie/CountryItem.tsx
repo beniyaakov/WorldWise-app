@@ -1,4 +1,3 @@
-
 import { ApiType } from "../../contexts/CitiesContexts";
 import styles from "./CountryItem.module.css";
 
