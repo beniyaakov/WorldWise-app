@@ -1,3 +1,6 @@
+to create full experience download it to your local pc and firt open "yarn run server" and then the yarn run dev this is for save location Feature
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
