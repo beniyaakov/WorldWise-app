@@ -12,7 +12,7 @@ import Form from "./ui/Form/Form";
 
 const Homepage = lazy(()=>import("./pages/Homepage/Homepage"))
 const Product = lazy(()=>import("./pages/Product/Product"))
-const Pricing = lazy(()=>import("./pages/Pricing/Pricing"))
+const Pricing = lazy(()=>import("./pages/Product/Pricing"))
 const Login = lazy(()=>import("./pages/Login/Login"))
 const AppLayout = lazy(()=>import("./pages/AppLayout/AppLayout"))
 const PageNotFound = lazy(()=>import("./pages/PageNotFound/PageNotFound"))
